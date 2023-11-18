@@ -53,3 +53,7 @@ print(long_objeto3)
 
 print ('Hola mundo')
 
+# In[12 ]: cambio a factor 200 por Directorio
+
+print ('cambio a factor 200 por Directorio')
+
