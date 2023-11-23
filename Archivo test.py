@@ -57,3 +57,6 @@ print ('Hola mundo')
 
 print ('cambio a factor 200 por Directorio')
 
+#In[13 ]variable
+
+print('variable123')
