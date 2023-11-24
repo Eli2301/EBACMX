@@ -1,0 +1,12 @@
+diff a/Archivo test.py b/Archivo test.py	(rejected hunks)
+@@ -53,3 +53,10 @@
+ 
+ print ('Hola mundo')
+ 
++# In[12 ]: cambio a factor 200 por Directorio
++
++print ('cambio a factor 200 por Directorio')
++
++#In[13 ]variable
++
++print('variable123')
