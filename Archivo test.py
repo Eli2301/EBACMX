@@ -60,3 +60,8 @@ print ('cambio a factor 200 por Directorio')
 #In[13 ]variable
 
 print('variable123')
+
+
+#In[14 ] tarea
+
+print('Tarea mod 22')
